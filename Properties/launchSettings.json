@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ServerStatus-CSharpClient": {
+      "commandName": "Project",
+      "commandLineArgs": "-dsn \"host:doub.io@192.168.31.154\" "
+    }
+  }
+}
